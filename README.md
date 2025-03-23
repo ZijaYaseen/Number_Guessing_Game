@@ -25,5 +25,4 @@ Try it out locally! Clone the repository, run the script, and enjoy the game in 
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/number-guessing-game-cli.git
-   cd number-guessing-game-cli
+   git clone https://github.com/ZijaYaseen/Number_Guessing_Game
